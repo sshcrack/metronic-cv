@@ -193,7 +193,7 @@
       #set text(
         font: font,
         fill: text-fill,
-        size: 11pt
+        size: 11.5pt
       )
       #content
     ])
